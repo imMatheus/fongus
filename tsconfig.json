@@ -5,12 +5,10 @@
         "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true,
         "strict": true,
+        "declaration": true,
+        "declarationMap": true,
         "sourceMap": true,
         "skipLibCheck": true,
-        "outDir": "lib",
-        "baseUrl": ".",
-        "paths": {
-            "@/*": ["./src/*"]
-        }
+        "outDir": "lib"
     }
 }

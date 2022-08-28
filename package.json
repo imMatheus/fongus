@@ -1,7 +1,7 @@
 {
     "name": "fongus",
     "version": "0.1.0",
-    "description": "",
+    "description": "An npm package to generate dummy documents for your mongodb project",
     "main": "lib/index.js",
     "scripts": {
         "build": "tsc -p .",
